@@ -17,7 +17,7 @@ Additionally, its appearance has been carefully crafted to aesthetically match t
 | M2x10 self tapping screw  | 3  |
 | ECAS04 bowden collet | 2  |
 | D2F-L | 2  |
-| Spring 0.4x5x20mm | 1  |
+| Spring 0.4x5x20mm | 2  |
 | 2x1 zip tie | 1  |
 
 ##
