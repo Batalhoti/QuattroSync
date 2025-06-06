@@ -23,3 +23,13 @@ Additionally, its appearance has been carefully crafted to aesthetically match t
 ##
 Inspired by the Annex Belay and Scops Owl's Filament Balancer Switch.
 
+## Change log
+
+v1.0 - 05-16-2025
+
+* Initial version
+
+v1.0.1 06-06-2025
+
+* Improvements to the inlet fit
+* Small reinforcement on the base
