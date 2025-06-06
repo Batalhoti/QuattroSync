@@ -11,14 +11,14 @@ Additionally, its appearance has been carefully crafted to aesthetically match t
 
 ## BOM
 
-| Part  | QTY |
-| ------------- | ------------- |
-| JST-XH 2.54 5P | 2  |
-| M2x10 self tapping screw  | 3  |
-| ECAS04 bowden collet | 2  |
-| D2F-L | 2  |
-| Spring 0.4x5x20mm | 2  |
-| 2x1 zip tie | 1  |
+| Part  | QTY | Link
+| ------------- | ------------- |------------- |
+| JST-XH 2.54 5P | 2  | https://s.click.aliexpress.com/e/_olEQHYs
+| M2x10 self tapping screw  | 3  | https://s.click.aliexpress.com/e/_oB337L6
+| ECAS04 bowden collet | 2  | https://s.click.aliexpress.com/e/_oCkBxKu
+| D2F-L | 2  | https://s.click.aliexpress.com/e/_okKw3Eg
+| Spring 0.4x5x20mm | 2  | https://s.click.aliexpress.com/e/_omKTh3i
+| 2x1 zip tie | 1  | https://s.click.aliexpress.com/e/_oBtanAu
 
 ##
 Inspired by the Annex Belay and Scops Owl's Filament Balancer Switch.
